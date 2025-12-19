@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Self Study\\Ultimate design patterns - Mahmoud Youssef\\My code\\Observer Excercise\\NewsletterSubscriptionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E65D1A7E-1DC3-492B-91FA-7C67ED52D9FE}|NewsletterSubscriptionApp\\NewsletterSubscriptionApp.csproj|f:\\self study\\ultimate design patterns - mahmoud youssef\\my code\\observer excercise\\newslettersubscriptionapp\\newslettersubscriptionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65D1A7E-1DC3-492B-91FA-7C67ED52D9FE}|NewsletterSubscriptionApp\\NewsletterSubscriptionApp.csproj|solutionrelative:newslettersubscriptionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65D1A7E-1DC3-492B-91FA-7C67ED52D9FE}|NewsletterSubscriptionApp\\NewsletterSubscriptionApp.csproj|f:\\self study\\ultimate design patterns - mahmoud youssef\\my code\\observer excercise\\newslettersubscriptionapp\\newslettersubscriptionapp\\newslettermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65D1A7E-1DC3-492B-91FA-7C67ED52D9FE}|NewsletterSubscriptionApp\\NewsletterSubscriptionApp.csproj|solutionrelative:newslettersubscriptionapp\\newslettermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65D1A7E-1DC3-492B-91FA-7C67ED52D9FE}|NewsletterSubscriptionApp\\NewsletterSubscriptionApp.csproj|f:\\self study\\ultimate design patterns - mahmoud youssef\\my code\\observer excercise\\newslettersubscriptionapp\\newslettersubscriptionapp\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65D1A7E-1DC3-492B-91FA-7C67ED52D9FE}|NewsletterSubscriptionApp\\NewsletterSubscriptionApp.csproj|solutionrelative:newslettersubscriptionapp\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65D1A7E-1DC3-492B-91FA-7C67ED52D9FE}|NewsletterSubscriptionApp\\NewsletterSubscriptionApp.csproj|f:\\self study\\ultimate design patterns - mahmoud youssef\\my code\\observer excercise\\newslettersubscriptionapp\\newslettersubscriptionapp\\subscriptiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65D1A7E-1DC3-492B-91FA-7C67ED52D9FE}|NewsletterSubscriptionApp\\NewsletterSubscriptionApp.csproj|solutionrelative:newslettersubscriptionapp\\subscriptiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65D1A7E-1DC3-492B-91FA-7C67ED52D9FE}|NewsletterSubscriptionApp\\NewsletterSubscriptionApp.csproj|f:\\self study\\ultimate design patterns - mahmoud youssef\\my code\\observer excercise\\newslettersubscriptionapp\\newslettersubscriptionapp\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65D1A7E-1DC3-492B-91FA-7C67ED52D9FE}|NewsletterSubscriptionApp\\NewsletterSubscriptionApp.csproj|solutionrelative:newslettersubscriptionapp\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65D1A7E-1DC3-492B-91FA-7C67ED52D9FE}|NewsletterSubscriptionApp\\NewsletterSubscriptionApp.csproj|f:\\self study\\ultimate design patterns - mahmoud youssef\\my code\\observer excercise\\newslettersubscriptionapp\\newslettersubscriptionapp\\newsletter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65D1A7E-1DC3-492B-91FA-7C67ED52D9FE}|NewsletterSubscriptionApp\\NewsletterSubscriptionApp.csproj|solutionrelative:newslettersubscriptionapp\\newsletter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65D1A7E-1DC3-492B-91FA-7C67ED52D9FE}|NewsletterSubscriptionApp\\NewsletterSubscriptionApp.csproj|f:\\self study\\ultimate design patterns - mahmoud youssef\\my code\\observer excercise\\newslettersubscriptionapp\\newslettersubscriptionapp\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65D1A7E-1DC3-492B-91FA-7C67ED52D9FE}|NewsletterSubscriptionApp\\NewsletterSubscriptionApp.csproj|solutionrelative:newslettersubscriptionapp\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Self Study\\Ultimate design patterns - Mahmoud Youssef\\My code\\Observer Excercise\\NewsletterSubscriptionApp\\NewsletterSubscriptionApp\\Program.cs",
+              "RelativeDocumentMoniker": "NewsletterSubscriptionApp\\Program.cs",
+              "ToolTip": "F:\\Self Study\\Ultimate design patterns - Mahmoud Youssef\\My code\\Observer Excercise\\NewsletterSubscriptionApp\\NewsletterSubscriptionApp\\Program.cs",
+              "RelativeToolTip": "NewsletterSubscriptionApp\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:45:45.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubscriptionType.cs",
+              "DocumentMoniker": "F:\\Self Study\\Ultimate design patterns - Mahmoud Youssef\\My code\\Observer Excercise\\NewsletterSubscriptionApp\\NewsletterSubscriptionApp\\SubscriptionType.cs",
+              "RelativeDocumentMoniker": "NewsletterSubscriptionApp\\SubscriptionType.cs",
+              "ToolTip": "F:\\Self Study\\Ultimate design patterns - Mahmoud Youssef\\My code\\Observer Excercise\\NewsletterSubscriptionApp\\NewsletterSubscriptionApp\\SubscriptionType.cs",
+              "RelativeToolTip": "NewsletterSubscriptionApp\\SubscriptionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:40:58.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "F:\\Self Study\\Ultimate design patterns - Mahmoud Youssef\\My code\\Observer Excercise\\NewsletterSubscriptionApp\\NewsletterSubscriptionApp\\Subscriber.cs",
+              "RelativeDocumentMoniker": "NewsletterSubscriptionApp\\Subscriber.cs",
+              "ToolTip": "F:\\Self Study\\Ultimate design patterns - Mahmoud Youssef\\My code\\Observer Excercise\\NewsletterSubscriptionApp\\NewsletterSubscriptionApp\\Subscriber.cs",
+              "RelativeToolTip": "NewsletterSubscriptionApp\\Subscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:40:53.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "F:\\Self Study\\Ultimate design patterns - Mahmoud Youssef\\My code\\Observer Excercise\\NewsletterSubscriptionApp\\NewsletterSubscriptionApp\\Reader.cs",
+              "RelativeDocumentMoniker": "NewsletterSubscriptionApp\\Reader.cs",
+              "ToolTip": "F:\\Self Study\\Ultimate design patterns - Mahmoud Youssef\\My code\\Observer Excercise\\NewsletterSubscriptionApp\\NewsletterSubscriptionApp\\Reader.cs",
+              "RelativeToolTip": "NewsletterSubscriptionApp\\Reader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:40:49.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsLetterManagement.cs",
+              "DocumentMoniker": "F:\\Self Study\\Ultimate design patterns - Mahmoud Youssef\\My code\\Observer Excercise\\NewsletterSubscriptionApp\\NewsletterSubscriptionApp\\NewsLetterManagement.cs",
+              "RelativeDocumentMoniker": "NewsletterSubscriptionApp\\NewsLetterManagement.cs",
+              "ToolTip": "F:\\Self Study\\Ultimate design patterns - Mahmoud Youssef\\My code\\Observer Excercise\\NewsletterSubscriptionApp\\NewsletterSubscriptionApp\\NewsLetterManagement.cs",
+              "RelativeToolTip": "NewsletterSubscriptionApp\\NewsLetterManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:40:43.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewsLetter.cs",
+              "DocumentMoniker": "F:\\Self Study\\Ultimate design patterns - Mahmoud Youssef\\My code\\Observer Excercise\\NewsletterSubscriptionApp\\NewsletterSubscriptionApp\\NewsLetter.cs",
+              "RelativeDocumentMoniker": "NewsletterSubscriptionApp\\NewsLetter.cs",
+              "ToolTip": "F:\\Self Study\\Ultimate design patterns - Mahmoud Youssef\\My code\\Observer Excercise\\NewsletterSubscriptionApp\\NewsletterSubscriptionApp\\NewsLetter.cs",
+              "RelativeToolTip": "NewsletterSubscriptionApp\\NewsLetter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:40:38.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "F:\\Self Study\\Ultimate design patterns - Mahmoud Youssef\\My code\\Observer Excercise\\NewsletterSubscriptionApp\\NewsletterSubscriptionApp\\BlogPost.cs",
+              "RelativeDocumentMoniker": "NewsletterSubscriptionApp\\BlogPost.cs",
+              "ToolTip": "F:\\Self Study\\Ultimate design patterns - Mahmoud Youssef\\My code\\Observer Excercise\\NewsletterSubscriptionApp\\NewsletterSubscriptionApp\\BlogPost.cs",
+              "RelativeToolTip": "NewsletterSubscriptionApp\\BlogPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:40:32.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

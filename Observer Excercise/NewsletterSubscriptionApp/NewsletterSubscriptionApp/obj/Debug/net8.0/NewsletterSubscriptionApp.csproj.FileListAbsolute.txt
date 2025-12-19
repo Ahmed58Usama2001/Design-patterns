@@ -1,0 +1,14 @@
+F:\Self Study\Ultimate design patterns - Mahmoud Youssef\My code\Observer Excercise\NewsletterSubscriptionApp\NewsletterSubscriptionApp\bin\Debug\net8.0\NewsletterSubscriptionApp.exe
+F:\Self Study\Ultimate design patterns - Mahmoud Youssef\My code\Observer Excercise\NewsletterSubscriptionApp\NewsletterSubscriptionApp\bin\Debug\net8.0\NewsletterSubscriptionApp.deps.json
+F:\Self Study\Ultimate design patterns - Mahmoud Youssef\My code\Observer Excercise\NewsletterSubscriptionApp\NewsletterSubscriptionApp\bin\Debug\net8.0\NewsletterSubscriptionApp.runtimeconfig.json
+F:\Self Study\Ultimate design patterns - Mahmoud Youssef\My code\Observer Excercise\NewsletterSubscriptionApp\NewsletterSubscriptionApp\bin\Debug\net8.0\NewsletterSubscriptionApp.dll
+F:\Self Study\Ultimate design patterns - Mahmoud Youssef\My code\Observer Excercise\NewsletterSubscriptionApp\NewsletterSubscriptionApp\bin\Debug\net8.0\NewsletterSubscriptionApp.pdb
+F:\Self Study\Ultimate design patterns - Mahmoud Youssef\My code\Observer Excercise\NewsletterSubscriptionApp\NewsletterSubscriptionApp\obj\Debug\net8.0\NewsletterSubscriptionApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\Ultimate design patterns - Mahmoud Youssef\My code\Observer Excercise\NewsletterSubscriptionApp\NewsletterSubscriptionApp\obj\Debug\net8.0\NewsletterSubscriptionApp.AssemblyInfoInputs.cache
+F:\Self Study\Ultimate design patterns - Mahmoud Youssef\My code\Observer Excercise\NewsletterSubscriptionApp\NewsletterSubscriptionApp\obj\Debug\net8.0\NewsletterSubscriptionApp.AssemblyInfo.cs
+F:\Self Study\Ultimate design patterns - Mahmoud Youssef\My code\Observer Excercise\NewsletterSubscriptionApp\NewsletterSubscriptionApp\obj\Debug\net8.0\NewsletterSubscriptionApp.csproj.CoreCompileInputs.cache
+F:\Self Study\Ultimate design patterns - Mahmoud Youssef\My code\Observer Excercise\NewsletterSubscriptionApp\NewsletterSubscriptionApp\obj\Debug\net8.0\NewsletterSubscriptionApp.dll
+F:\Self Study\Ultimate design patterns - Mahmoud Youssef\My code\Observer Excercise\NewsletterSubscriptionApp\NewsletterSubscriptionApp\obj\Debug\net8.0\refint\NewsletterSubscriptionApp.dll
+F:\Self Study\Ultimate design patterns - Mahmoud Youssef\My code\Observer Excercise\NewsletterSubscriptionApp\NewsletterSubscriptionApp\obj\Debug\net8.0\NewsletterSubscriptionApp.pdb
+F:\Self Study\Ultimate design patterns - Mahmoud Youssef\My code\Observer Excercise\NewsletterSubscriptionApp\NewsletterSubscriptionApp\obj\Debug\net8.0\NewsletterSubscriptionApp.genruntimeconfig.cache
+F:\Self Study\Ultimate design patterns - Mahmoud Youssef\My code\Observer Excercise\NewsletterSubscriptionApp\NewsletterSubscriptionApp\obj\Debug\net8.0\ref\NewsletterSubscriptionApp.dll
